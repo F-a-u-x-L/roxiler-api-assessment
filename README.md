@@ -13,10 +13,10 @@ URL is https://jsonplaceholder.typicode.com/todos & the method is GET which will
 todo items in a JSON array of objects.  
 
 
-## GET /user/<pass your user id here>
+## GET /user/pass-your-user-id-here
 
 You have to get the user information for the given user id (in the url) from a third party API.  
-The third party API URL is : https://jsonplaceholder.typicode.com/users/<pass your user id here>.  
+The third party API URL is : https://jsonplaceholder.typicode.com/users/pass-your-user-id-here.  
 
 You also need to get all the todo items from this API https://jsonplaceholder.typicode.com/todos and  
 find out all the todo items where user id matches with the above user id passed in the URL and  
